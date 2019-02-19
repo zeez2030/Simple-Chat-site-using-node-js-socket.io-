@@ -1,0 +1,26 @@
+{
+  "name": "websockets-node.js",
+  "version": "1.0.0",
+  "description": "Chat system with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeez2030/Simple-Chat-site-using-node-js-socket.io-.git"
+  },
+  "author": "zeez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeez2030/Simple-Chat-site-using-node-js-socket.io-/issues"
+  },
+  "homepage": "https://github.com/zeez2030/Simple-Chat-site-using-node-js-socket.io-#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
